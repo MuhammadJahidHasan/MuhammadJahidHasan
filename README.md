@@ -15,5 +15,3 @@ I'm a passionate **Backend Developer** with 3+ years of experience specializing 
 E-Commerce microservice API
 Building a scalable and maintainable microservices architecture for an e-commerce platform, designed to efficiently handle thousands of requests.
 - [E-Commerce microservice API](https://github.com/MuhammadJahidHasan/ecommerce-backend-microservices)
-### 📫 Let’s Connect
-- [Email](mjhasan38@gmail.com)
