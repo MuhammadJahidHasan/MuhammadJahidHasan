@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! I'm Muhammad Jahid Hasan
 
-<!--
-**MuhammadJahidHasan/MuhammadJahidHasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Backend Developer** with 3+ years of experience specializing in **Node.js**, building scalable microservices and robust APIs for high-performance web applications.
 
-Here are some ideas to get you started:
+### 🛠️ Tech I Work With
+- **Languages**: JavaScript, TypeScript, C#, C
+- **Frameworks**: Node.js, Express, NestJS
+- **Databases**: MongoDB, PostgreSQL, Redis
+- **Version-Control**: Git, GitHub
+- **Message-Broker**: RabbitMQ,
+- **Deployment**: Docker, CI/CD(GitHub Actions)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📂 Featured Projects
+E-Commerce microservice API
+Building a scalable and maintainable microservices architecture for an e-commerce platform, designed to efficiently handle thousands of requests.
+- [E-Commerce microservice API](https://github.com/MuhammadJahidHasan/ecommerce-backend-microservices)
+### 📫 Let’s Connect
+- [Email](mjhasan38@gmail.com)
